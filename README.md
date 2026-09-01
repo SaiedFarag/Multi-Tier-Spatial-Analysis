@@ -167,11 +167,6 @@ The `<->` operator walks the GiST index outward from each site and stops at 10, 
 | `Multi_Tier_Analysis_public.sql` | The full query, commented, with the KNN rewrite and result-inspection queries |
 | `README.md` | This file |
 
----
-
-## License
-
-MIT. Use it, change it, ship it.
 
 ---
 
